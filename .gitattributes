@@ -1,1 +1,2 @@
 *.lisp linguist-language=Common Lisp
+README.md linguist-documentation
